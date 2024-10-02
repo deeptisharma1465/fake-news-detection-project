@@ -10,6 +10,9 @@ This project is designed to detect fake news articles using machine learning tec
 - Functionality to classify custom news articles
 - Model evaluation with accuracy, precision, recall, and F1 score
 
+## Dataset
+The dataset used in this project can be found on Kaggle: [Fake News Detection Dataset](https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection)
+
 ## Contributors
 This project was created by:
 - [Deepti Sharma](https://github.com/deeptisharma1465) - Preprocessing, Model Training and Testing and Manual Evaluation
